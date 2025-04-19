@@ -5,8 +5,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "node",
+    "express",
+    "api"
+  ],
+  "author": "Babita singh",
   "license": "ISC",
   "description": "",
   "dependencies": {
